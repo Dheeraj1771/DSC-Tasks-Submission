@@ -98,6 +98,6 @@ jupyter notebook
 ## 📝 Credits
 - Datasets: Wikipedia (NBA Scoring Leaders), UCI ML Repository (Bike Sharing).
 - Libraries: Pandas, Requests, Matplotlib, Seaborn, Scikit-learn.
-- Contact: [Your Name] ([your.email@example.com]) – Open to feedback!
+- Contact: K Dheeraj (dheerajkseven@gmail.com) – Open to feedback!
 
 If you encounter issues or have questions, open an issue on this repo. Thanks for checking out my submission! 🚀
